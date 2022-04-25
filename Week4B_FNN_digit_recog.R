@@ -1,5 +1,4 @@
 #Predicting Hand_Written Digits Using 7 Segment-Combination (Based on LED Digit Display)----
-
 setwd("~/ALY-6020")
 # read in the 2 datasets for training and testing
 mnist_test <- read.csv("mnist_test.csv", header = FALSE)
